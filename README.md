@@ -1,7 +1,7 @@
 # maxlength
 
 ## Purpose
-Take datasets to be combined, find common variables, and for those variables obtain the maximum length. Returns a length statement as a global macro variable.
+SAS macro that takes datasets to be combined, find common variables, and for those variables obtain the maximum length. Returns a length statement as a global macro variable.
 
 ## Usage
 DSETS = Datasets to be combined (space separated)
